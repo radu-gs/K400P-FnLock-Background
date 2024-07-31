@@ -2,6 +2,9 @@
 
 An app that keeps your [K400+ wireless keyboard](https://www.logitech.com/en-us/products/keyboards/k400-plus-touchpad-keyboard.920-007119.html) in its Fn Lock mode at all times without needing to install Logi Options.
 
+![Screenshot](https://github.com/user-attachments/assets/8a73f634-fb38-44a1-8057-e02c59c804c3)
+
+
 ## Why?
 
 - There is no dedicated Fn Lock key on the K400+.
