@@ -2,6 +2,9 @@
 
 An app that keeps your [K400+ wireless keyboard](https://www.logitech.com/en-us/products/keyboards/k400-plus-touchpad-keyboard.920-007119.html) in its Fn Lock mode at all times without needing to install Logi Options.
 
+![Screenshot](https://github.com/user-attachments/assets/8a73f634-fb38-44a1-8057-e02c59c804c3)
+
+
 ## Why?
 
 - There is no dedicated Fn Lock key on the K400+.
@@ -37,4 +40,4 @@ The app lives entirely in the notification tray. Right click the app icon to int
 
 [HIDAPI](https://github.com/libusb/hidapi) binaries are included in the project in order for [HidApi.Net](https://github.com/badcel/HidApi.Net) to function and for user convenience. See license-hidapi.txt for more information.
 
-Inspired by h8man/k400p-fn-lock-win.
+Inspired by [h8man/k400p-fn-lock-win](https://github.com/h8man/k400p-fn-lock-win).
